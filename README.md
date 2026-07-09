@@ -54,7 +54,6 @@ W3-Clone/
 
 ## 📸 Project Preview
 
-Add your project screenshot below after uploading it to the repository.
 
 ```markdown
 ![Project Preview](w3-frontend.png)
