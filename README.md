@@ -54,12 +54,7 @@ W3-Clone/
 
 ## 📸 Project Preview
 
-
-```markdown
-![Project Preview](w3-frontend.png)
-```
-
----
+![Project Preview](./w3-frontend.png)
 
 ## 📚 Learning Outcomes
 
