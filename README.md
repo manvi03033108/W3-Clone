@@ -56,7 +56,7 @@ W3-Clone/
 
 
 ```markdown
-![Project Preview](w3-frontend.png)
+![Project Preview](./w3-frontend.png)
 ```
 
 ---
